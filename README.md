@@ -17,10 +17,10 @@ The following sections contain short descriptions of each assignment
 
 
 ## Week 1 - Introduction to machine learning
-Will fill this in soon.
+In this week's exercise we focused on getting a working programming environment up and running on our own computers, and did some simple data manipulation. We also answered somewhat theoretical questions to start our thought processes on how to use machine learning. 
 
 ## Week 2 - Basics of Regression and Classification
-
+In this weeks assignment we gained practical experience in working with both data and statistical models, the most important skillset to retain from the course. 
 
 ## Week 3 - Variable selection and Regularization
 
