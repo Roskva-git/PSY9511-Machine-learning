@@ -1,6 +1,6 @@
-# PSY9511 Introduction to machine learning 
+# PSY9511 Machine learning 
 
-This repository contains my solutions for the weekly exercises from the Introduction to machine learning course held in spring 2025 at the Department of Psychology. The exercises are from the 2023 version of "An introduction to statistical learning: With applications in Python", by James, G., Witten, D., Hastie, T., & Tibshirani, R.
+This repository contains my solutions for the weekly exercises from the machine learning course held in spring 2025 at the Department of Psychology. The exercises are from the 2023 version of "An introduction to statistical learning: With applications in Python", by James, G., Witten, D., Hastie, T., & Tibshirani, R.
 
 # Content
 
